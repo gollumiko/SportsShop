@@ -1,2 +1,2 @@
 # SportsShop
-Simple flask tutorial
+Simple flask example with a small SQLite database integration.
